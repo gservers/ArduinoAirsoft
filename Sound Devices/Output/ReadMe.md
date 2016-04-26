@@ -1,5 +1,8 @@
-Here you can find the following Files for the SimpleSoundDevice<br>
-ItemList:   What you need to build <br>
-Cases:      Actually Empty (Later for 3D printed Cases) <br>
-Layouts:    Actually Empty (later for different soldering Layouts) <br>
-Codes:      Actually Empty (later for different Programs)
+Every folder is a Single Device <br>
+And contains: <br>
+The Program to download (name/name.ino) <br>
+<b>Cases</b>: Different case Designs (when there are any) <br>
+<b>Layouts</b>: Different soldering Layouts (can contain different Itemlists) <br>
+<br
+Actual Devices:
+<b>SimpleSoundDevice</b>: A one Tone Output for 433 MHz
