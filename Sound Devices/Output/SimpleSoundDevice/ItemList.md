@@ -7,6 +7,7 @@ What do i need to build? <br>
 1x 330 Ohm Resistor (Orange Orange Brown) <br>
 1x Buzzer/Beeper <br>
 1x Diode <br>
+1x On/Off Switch<br>
 1x Something to Solder on (perfboard or copperwire) <br>
 2x Capacitors (1x 10 and 1x 100 mikro Farad) <br>
 (1x antenna for the receiver, if you haven't got one with it) <br>
